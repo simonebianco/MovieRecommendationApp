@@ -4,4 +4,4 @@ The application is built using the Streamlit module with Python and is intended 
 
 ## Link
 
-https://movieapp-recommendation.herokuapp.com/
+https://simonebianco-movierecommendationapp-home-7h1mpa.streamlit.app/
